@@ -46,6 +46,32 @@ The platform provides:
 ## Installation and Setup
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/sports-betting-dapp.git
-cd sports-betting-dapp
+cd sports-betting-dapp 
+
+## Security Notes
+
+- Do NOT expose private keys in commits.
+
+- Secure access to the oracle service.
+
+- Smart contracts should be audited before production deployment.
+
+- Validate backend inputs properly.
+
+## Contributing
+
+- Contributions are welcome!
+
+- Fork the repository
+
+- Create a feature branch
+
+- Commit your changes
+
+- Open a pull request
+
+## License
+
+- This project is licensed under the MIT License.

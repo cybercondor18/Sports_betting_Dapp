@@ -20,3 +20,32 @@ The platform provides:
 ---
 
 ## 📁 Project Structure
+![structure.jpg](Structure.jpg)
+
+## Technologies Used
+
+### Blockchain
+- Solidity  
+- Hardhat  
+- Ethers.js / Web3.js  
+
+### Frontend
+- React  
+- Vite  
+- Web3.js  
+
+### Backend
+- Node.js  
+- Express.js  
+
+### Database
+- SQL (configurable)
+
+---
+
+## Installation and Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/sports-betting-dapp.git
+cd sports-betting-dapp
